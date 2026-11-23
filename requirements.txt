@@ -1,0 +1,6 @@
+numpy>=2.0
+PyAudioWPatch>=0.2.12
+mss>=10.0
+pillow>=11.0
+comtypes>=1.4
+pyinstaller>=6.10
