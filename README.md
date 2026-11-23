@@ -3,9 +3,9 @@
 Music- and screen-reactive lighting for the per-key RGB keyboard on Lenovo Legion laptops.
 It drives the keys, the rear lights, the front light bar and the logo, and it runs alongside Legion Space instead of replacing it.
 
-![KeyGlow preview reacting to music](docs/demo.gif)
+![KeyGlow reacting to music](docs/demo.gif)
 
-*Recording of the app's own preview while a demo track plays. Full 47-second clip with sound: [docs/keyglow-demo.mp4](docs/keyglow-demo.mp4).*
+*Recording of the app window while a demo track plays. The keyboard picture at the top of the window is the live preview of what is sent to the real keyboard. Full 47-second clip with sound: [docs/keyglow-demo.mp4](docs/keyglow-demo.mp4).*
 
 ## Why
 
